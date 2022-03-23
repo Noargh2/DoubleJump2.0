@@ -1,0 +1,4 @@
+name: DoubleJumpPl
+version: '${project.version}'
+main: n0devx.doublejumppl.DoubleJumpPl
+api-version: 1.18
